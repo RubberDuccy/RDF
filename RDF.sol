@@ -41,7 +41,7 @@ pragma solidity ^0.6.0;
                        @@@@@@@@@@@/............%@@@@@@@@@@@@@@@@@@.                                               
                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                                      
                           
-     Rubber Ducky is a fork of Prophet (PROPHET) with Molten (MOL) auto liquidity add. Rubber Ducky also has a deflationary supply 
+     Rubber Ducky is a fork of Reflect Finance and Phrophet auto liquidity add. Rubber Ducky also has a deflationary supply 
      and fair-launch mechanisms to ensure a healthy distribution of tokens. 
  */
 abstract contract Context {
